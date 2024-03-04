@@ -6,7 +6,7 @@
 Tea aims to be an extensible, fast, modern text editor.
 
 Also, more information can be found at
-[hack.withtea.party](https://hack.withtea.party).
+[hack.tea.party](https://hack.tea.party).
 
 ## Features
 - Efficient, modal- and mode-based text editing
